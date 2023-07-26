@@ -7,6 +7,6 @@ The example data shows an ultra thin film of the ferromagnetic oxide SrRuO3. The
 
 This analysis is written in Python, and I use a Jupyter notebook. The libraries 'cv2' and 'pySPM' are not included with Anaconda by default.
 
-Please contact me gk349 at cam.ac.uk if you have any questions about this work, or want to use any of the code etc., I'm happy to help.
+Please contact me graham.kimbell at unige.ch if you have any questions about this work, or want to use any of the code etc., I'm happy to help.
 
 Note: In cell 13 I manually add a custom legend for the histograms in Illustrator after this rendering, as the Python legend would be too large. The green curve is the 200 mT scan and the purple is the 4000 mT scan.
